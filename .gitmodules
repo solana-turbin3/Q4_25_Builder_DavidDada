@@ -1,3 +1,6 @@
 [submodule "turbin3-prereq"]
 	path = turbin3-prereq
 	url = https://github.com/dadadave80/turbin3-prereq
+[submodule "anchor-vault"]
+	path = anchor-vault
+	url = https://github.com/dadadave80/anchor-vault
