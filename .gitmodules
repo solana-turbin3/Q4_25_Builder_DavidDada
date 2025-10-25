@@ -7,3 +7,6 @@
 [submodule "anchor-escrow"]
 	path = anchor-escrow
 	url = https://github.com/dadadave80/anchor-escrow
+[submodule "anchor-amm"]
+	path = anchor-amm
+	url = https://github.com/dadadave80/anchor-amm
